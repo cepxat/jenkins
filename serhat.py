@@ -1,3 +1,3 @@
-echo "Hello world!"
-echo "Hello Jenkins!"
-echo "Bye Jenkins"
+print ("Hello world!")
+print ("Hello Jenkins!")
+print ("Bye Jenkins")
